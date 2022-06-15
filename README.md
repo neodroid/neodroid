@@ -4,7 +4,7 @@
 import Kevin
 
 class About: Me{
-    @obj func getLanguages(){
+    @objc func getLanguages(){
           return [
                 "Swift",
                 "Python",
@@ -12,7 +12,7 @@ class About: Me{
                 "C++"
           ]
     }
-    @obj func getExperiences(){
+    @objc func getExperiences(){
           return [
                 "iOS Developer",
                 "Data Scientist"
