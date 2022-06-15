@@ -18,6 +18,6 @@ class About: Me{
                 "Data Scientist"
           ]
     }
-    let interest = ["Hackathons", "Competitive Programming", "AI Competitions", "Any Tech Stuff lol"]
+    let interest = ["Hackathons", "Competitive Programming", "AI/Robotics Competitions", "Any Tech Stuff lol"]
 }
 ```
