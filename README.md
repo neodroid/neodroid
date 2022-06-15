@@ -8,6 +8,7 @@ class About: Me{
           return [
                 "Swift",
                 "Python",
+                "Javascript",
                 "C++"
           ]
     }
@@ -17,5 +18,6 @@ class About: Me{
                 "Data Scientist"
           ]
     }
+    let interest = ["Hackathons", "Competitive Programming", "AI Competitions", "Any Tech Stuff lol"]
 }
 ```
