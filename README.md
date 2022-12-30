@@ -14,6 +14,7 @@ class About: Me{
     }
     @objc func getExperiences(){
           return [
+                "Software Engineer",
                 "iOS Developer",
                 "Data Scientist"
           ]
