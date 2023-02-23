@@ -9,6 +9,7 @@ class About: Me{
                 "Swift",
                 "Python",
                 "Javascript",
+                "Typescript",
                 "C++"
           ]
     }
